@@ -1,3 +1,3 @@
-def toplama()
+def toplama(x,y)
 	return x+y
 
